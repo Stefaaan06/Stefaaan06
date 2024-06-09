@@ -1,6 +1,6 @@
 ### Heya,
 
-I´m a developer. 
+I code stuff
 
 <a href="https://twitter.com/Stefaaan06"><img src="https://img.shields.io/badge/Stefaaan06 on X-grey?style=for-the-badge&logo=X" alt="Follow me on X"></a>
 <a href="https://www.youtube.com/channel/UCqx7KNiEo7RDhSUYvobf1hQ"><img src="https://img.shields.io/badge/Stefaaan06%20on%20Youtube-red?style=for-the-badge&logo=youtube" alt="Follow me on Youtbe"></a>
